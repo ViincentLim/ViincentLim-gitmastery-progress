@@ -69,5 +69,14 @@
       "EOF when reading a line"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787378534.9119,
+    "completed_at": 1787378537.702444,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
