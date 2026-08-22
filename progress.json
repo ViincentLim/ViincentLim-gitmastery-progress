@@ -1,32 +1,5 @@
 [
   {
-    "exercise_name": "under-control",
-    "started_at": 1787121092.269033,
-    "completed_at": 1787121093.85238,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1787121147.231993,
-    "completed_at": 1787121148.707964,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1787299207.295902,
-    "completed_at": 1787299208.774664,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "grocery-shopping",
     "started_at": 1787299428.790834,
     "completed_at": 1787299432.006878,
@@ -60,5 +33,41 @@
     "completed_at": 1787300370.703892,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787299207.295902,
+    "completed_at": 1787299208.774664,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787121092.269033,
+    "completed_at": 1787121093.85238,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787121147.231993,
+    "completed_at": 1787121148.707964,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787378513.282216,
+    "completed_at": 1787378516.803146,
+    "comments": [
+      "EOF when reading a line"
+    ],
+    "status": "Error"
   }
 ]
